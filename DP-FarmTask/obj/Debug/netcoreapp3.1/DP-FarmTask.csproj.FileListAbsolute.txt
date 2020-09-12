@@ -1,0 +1,13 @@
+/home/traxxx/Dev/source/DP-FarmTask/bin/Debug/netcoreapp3.1/DP-FarmTask
+/home/traxxx/Dev/source/DP-FarmTask/bin/Debug/netcoreapp3.1/DP-FarmTask.deps.json
+/home/traxxx/Dev/source/DP-FarmTask/bin/Debug/netcoreapp3.1/DP-FarmTask.runtimeconfig.json
+/home/traxxx/Dev/source/DP-FarmTask/bin/Debug/netcoreapp3.1/DP-FarmTask.runtimeconfig.dev.json
+/home/traxxx/Dev/source/DP-FarmTask/bin/Debug/netcoreapp3.1/DP-FarmTask.dll
+/home/traxxx/Dev/source/DP-FarmTask/bin/Debug/netcoreapp3.1/DP-FarmTask.pdb
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.csprojAssemblyReference.cache
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.AssemblyInfoInputs.cache
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.AssemblyInfo.cs
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.csproj.CoreCompileInputs.cache
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.dll
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.pdb
+/home/traxxx/Dev/source/DP-FarmTask/obj/Debug/netcoreapp3.1/DP-FarmTask.genruntimeconfig.cache
